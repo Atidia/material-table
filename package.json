@@ -1,5 +1,5 @@
 {
-  "name": "material-table",
+  "name": "material-table-atidia",
   "version": "1.69.1",
   "description": "Datatable for React based on https://material-ui.com/api/table/ with additional features",
   "main": "dist/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mbrn/material-table.git"
+    "url": "git+https://github.com/Atidia/material-table.git"
   },
   "keywords": [
     "react",
@@ -37,12 +37,12 @@
     "datatable",
     "table"
   ],
-  "author": "Mehmet Baran",
+  "author": "Mehmet Baran, Atidia",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mbrn/material-table/issues"
+    "url": "https://github.com/Atidia/material-table/issues"
   },
-  "homepage": "https://github.com/mbrn/material-table#readme",
+  "homepage": "https://github.com/Atidia/material-table#readme",
   "devDependencies": {
     "@babel/cli": "7.1.2",
     "@babel/core": "7.4.4",
